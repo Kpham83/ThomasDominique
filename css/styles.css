@@ -1,0 +1,164 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+  padding-top: 1rem;
+  font-weight: bold;
+}
+
+.colored-section {
+  background-color: black;
+  color: #fff;
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+
+.white-section {
+  background-color: #CDC2AE;
+  padding-bottom: 3%;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+
+}
+
+
+/* Title Section */
+
+#title {
+  background-color: black;
+
+}
+
+#title .container-fluid {
+  padding-bottom: 35px;
+
+}
+
+/*....Navbar....*/
+
+.navbar-brand {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "Ubuntu";
+  color: white;
+}
+
+
+.small-heading {
+  font-size: 1.5rem;
+  padding-top: 50px;
+}
+
+.carousel-control-prev {
+  visibility: hidden;
+}
+
+.carousel-control-next {
+  visibility: hidden;
+}
+
+
+
+
+/* Video Clips & photos */
+
+.white-section {
+  height: 505px;
+  padding-top: 15px;
+}
+
+.icon {
+  margin-bottom: 1rem;
+
+}
+
+.icon2 {
+  margin-left: 315px;
+  margin-bottom: 1rem
+}
+
+.video {
+  text-align: center;
+  margin-top: 13px;
+}
+
+.photos {
+  left: 680px;
+  bottom: 414px;
+
+}
+
+.backstagePics {
+  width: 640px;
+  height: 360px;
+
+}
+
+
+
+/*-- Films --*/
+
+.row {
+
+}
+
+
+.film-box {
+
+}
+
+
+.film-box2 {
+
+
+}
+
+.link {
+  color: white;
+  position: relative;
+  top: 50px;
+
+}
+/*-- Subscription --*/
+
+.sub-heading {
+  padding-top: 5%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.subscription-column {
+  font-weight: bold;
+  padding-top: 5%;
+  text-align: center;
+}
+
+
+
+.card-body {
+  background-color: #CDC2AE;
+}
+
+.card {
+  width: 300px;
+  margin-left: 520px;
+
+
+}
+
+.social-icon {
+  padding: 1%;
+  color: white;
+}
+
+
+@media (max-width: 1028px) {
+
+
+  }

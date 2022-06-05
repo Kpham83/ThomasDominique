@@ -1,0 +1,177 @@
+<div class="col-lg-6">
+  <button type="button" class="btn btn-dark btn-lg download-button"><i class="fab fa-apple"></i> Download</button>
+  <button type="button" class="btn btn-outline-light btn-lg download-button"><i class="fab fa-google-play"></i> Download</button>
+</div>
+
+
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/333373348?h=70f20d5eb4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+
+<img src="images/WrathOfMan01.jpg" alt="films1">
+<em>Wrath of Man</em>
+
+<img src="images/Topboy25.jpg" alt="films2">
+<em>Topboy</em>
+
+<img src="images/BlackMirror03.jpg" alt="films3">
+<em>Black Mirror</em>
+
+<img src="images/StayClose04.jpg" alt="films4">
+<em>Stay Close</em>
+
+<img src="images/BloodDrive02.jpg" alt="films4">
+<em>Blood Drive</em>
+
+
+
+
+<div class="carousel-item">
+  <img class="backstagePics" src="images/tigger50.jpg" alt="Films&Television">
+</div>
+<div class="carousel-item">
+  <img class="backstagePics" src="images/tigger.jpg" alt="Films&Television">
+</div>
+<div class="carousel-item">
+  <img class="backstagePics" src="images/tigger08.jpg" alt="Films&Television">
+</div>
+<div class="carousel-item">
+  <img class="backstagePics" src="images/tigger13.jpg" alt="Films&Television">
+</div>
+<div class="carousel-item">
+  <img class="backstagePics" src="images/tigger10.jpg" alt="Films&Television">
+</div>
+<div class="carousel-item">
+  <img class="backstagePics" src="images/tigger11.jpg" alt="Films&Television">
+</div>
+
+
+
+
+
+<section class="white-section" id="features">
+
+    <div class="container-fluid">
+
+      <div class="row">
+        <div class="feature-box col-lg-4">
+          <i class="icon fas fa-check-circle fa-4x"></i>
+          <h3 class="feature-title">Easy to use.</h3>
+          <p>So easy to use, even your dog could do it.</p>
+        </div>
+
+        <div class="feature-box col-lg-4">
+          <i class="icon fas fa-bullseye fa-4x"></i>
+          <h3 class="feature-title">Elite Clientele</h3>
+          <p>We have all the dogs, the greatest dogs.</p>
+        </div>
+
+        <div class="feature-box col-lg-4">
+          <i class="icon fas fa-heart fa-4x"></i>
+          <h3 class="feature-title">Guaranteed to work.</h3>
+          <p>Find the love of your dog's life or your money back.</p>
+        </div>
+      </div>
+
+
+    </div>
+  </section>
+
+
+
+
+  <section class="colored-section" id="films.tv">
+
+    <div class="container-fluid">
+
+
+      <div class="film-box col-lg-4">
+          <img src="images/tigger56.jpg" alt="films4">
+          <h3 class="film-title">Daemond Mind</h3>
+          <p>(Tv Series 2022)</p>
+        </div>
+
+        <div class="film-box col-lg-4">
+          <img src="images/tigger53.jpg" alt="films4">
+          <h3 class="film-title">The Devil's Hour</h3>
+          <p>We have all the dogs, the greatest dogs.</p>
+        </div>
+
+        <div class="film-box col-lg-4">
+          <i class="icon fas fa-heart fa-4x"></i>
+          <h3 class="film-title">Guaranteed to work.</h3>
+          <p>Find the love of your dog's life or your money back.</p>
+        </div>
+
+      </div>
+    </div>
+
+
+  </section>
+
+
+  <<ul>
+    <li><a href="Hobbies.html">Hobbies</a></li>
+    <li><a href="Filmography.html">Filmography</a></li>
+    <li><a href="Photos.html">Photos</a></li>
+    <li><a href='Contact.html'>Contacts</a></li>
+
+    </ul>
+
+
+
+    h3 {
+      font-family: "Montserrat"
+      font-weight: bold;
+
+    }
+
+
+    width: 600px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 800px;
+
+    body {
+      background-image: url(../images/tigger65.jpg);
+      background-repeat: no-repeat;
+
+      width: 600px;
+      height: 400px;
+      margin-top: 50px;
+      margin-left: 800px;
+
+    }
+
+    <section class="white-section" id="features">
+
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="feature-box col-lg-4">
+        <i class="icon fas fa-check-circle fa-4x"></i>
+        <h3 class="feature-title">Easy to use.</h3>
+        <p>So easy to use, even your dog could do it.</p>
+      </div>
+
+      <div class="feature-box col-lg-4">
+        <i class="icon fas fa-bullseye fa-4x"></i>
+        <h3 class="feature-title">Elite Clientele</h3>
+        <p>We have all the dogs, the greatest dogs.</p>
+      </div>
+
+      <div class="feature-box col-lg-4">
+        <i class="icon fas fa-heart fa-4x"></i>
+        <h3 class="feature-title">Guaranteed to work.</h3>
+        <p>Find the love of your dog's life or your money back.</p>
+      </div>
+    </div>
+
+
+  </div>
+</section>
+
+
+
+#112735;
